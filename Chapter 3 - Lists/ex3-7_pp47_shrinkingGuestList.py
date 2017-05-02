@@ -54,6 +54,6 @@ print("You can come to dessert, " + guestList[0] +".")
 print("You can come to dessert, " + guestList[1] +".")
 
 del guestList[0]
-del guestList[1]
+del guestList[0]
 
 print(guestList)
