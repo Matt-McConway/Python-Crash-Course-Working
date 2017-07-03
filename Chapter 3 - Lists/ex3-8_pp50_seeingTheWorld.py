@@ -16,7 +16,8 @@
      •	Use sorted() to print your list in reverse alphabetical order without
         changing the order of the original list.
 
-     •	Show that your list is still in its original order by printing it again.
+     •	Show that your list is still in its original order by printing it
+        again.
 
      •	Use reverse() to change the order of your list. Print the list to show
         that its order has changed.

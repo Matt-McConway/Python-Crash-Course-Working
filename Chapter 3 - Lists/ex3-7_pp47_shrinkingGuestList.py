@@ -50,8 +50,8 @@ print("Sorry " + guestList.pop() + "Your dinner ends here.")
 print("Sorry " + guestList.pop() + "Your dinner ends here.")
 print("Sorry " + guestList.pop() + "Your dinner ends here.")
 
-print("You can come to dessert, " + guestList[0] +".")
-print("You can come to dessert, " + guestList[1] +".")
+print("You can come to dessert, " + guestList[0] + ".")
+print("You can come to dessert, " + guestList[1] + ".")
 
 del guestList[0]
 del guestList[0]

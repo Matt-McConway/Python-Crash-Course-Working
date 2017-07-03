@@ -4,5 +4,5 @@
      stop it by pressing ctrl-C or by closing the output window).
 """
 
-for number in range (1, 1000001):
+for number in range(1, 1000001):
     print(number)

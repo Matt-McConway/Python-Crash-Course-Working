@@ -5,5 +5,14 @@
      Python can add a million numbers.
 """
 
-for number in range (1, 1000001):
-    print(number)
+
+theBigList = [number for number in range(1, 1000001)]
+
+print("Min: " + str(min(theBigList)))
+print("Max: " + str(max(theBigList)))
+
+theBigSum = 0
+for number in theBigList:
+    theBigSum += number
+
+print("Sum: " + str(theBigSum))

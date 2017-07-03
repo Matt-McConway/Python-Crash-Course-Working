@@ -6,7 +6,7 @@
       sentence describing what the program does.
 """
 
-#This is a comment. Use this for inline commenting and 1 liners!
+# This is a comment. Use this for inline commenting and 1 liners!
 
 """
     And this is a docstring. Use these to describe functions and programs

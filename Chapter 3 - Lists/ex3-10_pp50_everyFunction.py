@@ -7,7 +7,7 @@
 """
 
 
-programmingLanguages = ["HTML", "CSS", "Java" ,"Javascript", "Python"]
+programmingLanguages = ["HTML", "CSS", "Java", "Javascript", "Python"]
 
 print(programmingLanguages)
 
